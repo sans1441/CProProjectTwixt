@@ -1,7 +1,9 @@
 # CProProjectTwixt
 Cpro Project for sem1.
 
-Readme For midsubmission:
+## Student details:
+- Name: Saketh Naga Sibyala
+- Roll no: 2025117011
 
 ## Implemented stuff:
 - 24 x 24 board
@@ -11,7 +13,7 @@ Readme For midsubmission:
 - Occupied positions cannot be played again
 - Update board after every move
 
-## Stuff to be implemented
+## Stuff to be implemented:
 - Automatic linking betweek pegs
 - Checking for valid connections
 - Checking for win condition
